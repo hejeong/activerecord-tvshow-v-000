@@ -22,7 +22,9 @@ class Show < ActiveRecord::Base
 
   def self.popular_shows
 
-  end 
+  end
 
   def self.shows_by_alphabetical_order
+
+  end
 end
